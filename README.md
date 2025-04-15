@@ -26,11 +26,11 @@
 
 ###
 
-<h1 align="center">hey  👋 I'm Ujjwal Rana</h1>
+<h1 align="center">hey  👋 I'm Aditya Kumar</h1>
 
 ###
 
-<h3 align="left">👩‍💻  I am an Android Developer</h3>
+<h3 align="left">👩‍💻  I am an Fullstack Developer</h3>
 
 ###
 
